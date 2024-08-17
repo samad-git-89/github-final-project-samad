@@ -1,19 +1,8 @@
-# Simple Interest Calculator
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-A simple script to calculate interest using the formula:
-\[
-\text{Simple Interest} = P \times R \times T
-\]
-where:
-- \( P \) is the principal amount
-- \( R \) is the rate of interest
-- \( T \) is the time period
-
-## Installation
-
-To use this script, download or clone the repository and run the script with a Python interpreter.
-
-## Usage
-
-```bash
-python simple_interest.py
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
